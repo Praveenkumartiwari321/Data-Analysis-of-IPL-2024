@@ -30,7 +30,7 @@ To run the analysis on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ipl-2024-analysis.git
+   git clone https://github.com/Praveenkumartiwari321/Data-Analysis-of-IPL-2024.git
    ```
 2. Navigate to the project directory:
    ```bash
